@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liengudoe.0toinf.com/sitemap.xml
